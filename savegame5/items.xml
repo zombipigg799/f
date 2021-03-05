@@ -1,0 +1,617 @@
+﻿<items>
+    <item className="SellingStationPlaceable" id="1" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationBales/sellingStationBales.xml" position="-42.7430 188.6000 -624.6370" rotation="0.0000 0.0000 -4.2340" age="0" price="1.000000" farmId="0" mapBoundId="sellingStationBales" boughtWithFarmland="false" seasonsYears="0.000000">
+        <sellingStation>
+            <stats fillType="HAYPELLETS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.050000" nominalAmplitudeVariation="0.037500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.027603" period="53317776.000000" time="35486728.000000"/>
+                <curve1 nominalAmplitude="0.025000" nominalAmplitudeVariation="0.005000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.029357" period="436899488.000000" time="291966368.000000"/>
+            </stats>
+            <stats fillType="DRYGRASS_WINDROW" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="40932488.000000">
+                <curveBaseCurve nominalAmplitude="0.011200" nominalAmplitudeVariation="0.008400" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.017101" period="46487188.000000" time="11621797.000000"/>
+                <curve1 nominalAmplitude="0.005600" nominalAmplitudeVariation="0.001120" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.005967" period="586177600.000000" time="162445376.000000"/>
+            </stats>
+            <stats fillType="GRASS_WINDROW" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.009000" nominalAmplitudeVariation="0.006750" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.007471" period="88625136.000000" time="54351920.000000"/>
+                <curve1 nominalAmplitude="0.004500" nominalAmplitudeVariation="0.000900" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.004730" period="588852032.000000" time="491111520.000000"/>
+            </stats>
+            <stats fillType="STRAWPELLETS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="5386682.000000">
+                <curveBaseCurve nominalAmplitude="0.050000" nominalAmplitudeVariation="0.037500" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.015263" period="85421360.000000" time="64066020.000000"/>
+                <curve1 nominalAmplitude="0.025000" nominalAmplitudeVariation="0.005000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.020809" period="423846432.000000" time="224844768.000000"/>
+            </stats>
+            <stats fillType="STRAW" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="33125228.000000">
+                <curveBaseCurve nominalAmplitude="0.008200" nominalAmplitudeVariation="0.006150" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.010262" period="89463176.000000" time="22365794.000000"/>
+                <curve1 nominalAmplitude="0.004100" nominalAmplitudeVariation="0.000820" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.004435" period="447016096.000000" time="144811568.000000"/>
+            </stats>
+            <stats fillType="SILAGE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="16204634.000000">
+                <curveBaseCurve nominalAmplitude="0.034200" nominalAmplitudeVariation="0.025650" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.033624" period="61448908.000000" time="46086680.000000"/>
+                <curve1 nominalAmplitude="0.017100" nominalAmplitudeVariation="0.003420" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.015004" period="501439264.000000" time="1575773.125000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="Bale" id="2" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="489.2967 212.4887 378.3309" rotation="-0.0026 -74.1313 0.0023" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="3" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.5497 213.2958 370.1056" rotation="179.9979 76.1789 179.9990" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="4" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="482.3616 211.6816 380.2830" rotation="0.0008 -74.1256 -0.0005" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="5" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.7046 211.6812 361.4726" rotation="-0.1273 -74.7123 0.1259" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="6" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="513.0984 212.4886 367.8093" rotation="-179.9951 -15.1871 179.9791" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Placeable" id="7" modName="FS19_lightsSet" filename="$moddir$FS19_lightsSet/streetLight9m.xml" position="438.7698 207.1988 349.7774" rotation="0.0000 -431.9558 0.0000" age="2" price="1500.000000" farmId="1" boughtWithFarmland="false" seasonsYears="0.055556"/>
+    <item className="Bale" id="8" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="488.9626 212.4886 377.1408" rotation="0.0395 -74.2663 -0.0324" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="SellingStationPlaceable" id="9" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationGeneric/sellingStationMill02.xml" position="791.0430 188.7200 -546.3400" rotation="0.0000 -30.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationPort01" boughtWithFarmland="false" seasonsYears="0.000000">
+        <sellingStation>
+            <stats fillType="WHEAT" received="21000.000000" paid="13753.674805" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.067400" nominalAmplitudeVariation="0.050550" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.031665" period="90432016.000000" time="8269889.500000"/>
+                <curve1 nominalAmplitude="0.033700" nominalAmplitudeVariation="0.006740" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.032827" period="472510240.000000" time="70908568.000000"/>
+            </stats>
+            <stats fillType="BARLEY" received="8266.000000" paid="5486.520508" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="24979108.000000">
+                <curveBaseCurve nominalAmplitude="0.062600" nominalAmplitudeVariation="0.046950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.020740" period="88617384.000000" time="22154346.000000"/>
+                <curve1 nominalAmplitude="0.031300" nominalAmplitudeVariation="0.006260" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.032807" period="580960256.000000" time="361716000.000000"/>
+            </stats>
+            <stats fillType="OAT" received="12000.000000" paid="11840.506836" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.106400" nominalAmplitudeVariation="0.079800" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.041868" period="77391928.000000" time="33896372.000000"/>
+                <curve1 nominalAmplitude="0.053200" nominalAmplitudeVariation="0.010640" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.063077" period="574368320.000000" time="239183408.000000"/>
+            </stats>
+            <stats fillType="CANOLA" received="23764.091797" paid="23667.667969" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.120600" nominalAmplitudeVariation="0.090450" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.085061" period="72295352.000000" time="46097732.000000"/>
+                <curve1 nominalAmplitude="0.060300" nominalAmplitudeVariation="0.012060" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.064095" period="423446752.000000" time="145163888.000000"/>
+            </stats>
+            <stats fillType="SUNFLOWER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="8832865.000000">
+                <curveBaseCurve nominalAmplitude="0.134600" nominalAmplitudeVariation="0.100950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.153966" period="77424104.000000" time="19356026.000000"/>
+                <curve1 nominalAmplitude="0.067300" nominalAmplitudeVariation="0.013460" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.075076" period="582947072.000000" time="552614848.000000"/>
+            </stats>
+            <stats fillType="SOYBEAN" received="17394.068359" paid="23272.886719" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="28910434.000000">
+                <curveBaseCurve nominalAmplitude="0.155600" nominalAmplitudeVariation="0.116700" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.040897" period="72915704.000000" time="54686776.000000"/>
+                <curve1 nominalAmplitude="0.077800" nominalAmplitudeVariation="0.015560" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.083437" period="579091392.000000" time="113367584.000000"/>
+            </stats>
+            <stats fillType="MAIZE" received="51072.027344" paid="36348.746094" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.076000" nominalAmplitudeVariation="0.057000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.060273" period="55530808.000000" time="47607256.000000"/>
+                <curve1 nominalAmplitude="0.038000" nominalAmplitudeVariation="0.007600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.038262" period="424542400.000000" time="313479616.000000"/>
+            </stats>
+            <stats fillType="SUGARCANE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="46865620.000000">
+                <curveBaseCurve nominalAmplitude="0.023800" nominalAmplitudeVariation="0.017850" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.020194" period="74269536.000000" time="18567384.000000"/>
+                <curve1 nominalAmplitude="0.011900" nominalAmplitudeVariation="0.002380" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.010881" period="410035616.000000" time="123046552.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="SiloPlaceable" id="10" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/silo/farmSiloLarge.xml" position="456.6780 207.2090 330.5600" rotation="0.0000 0.0000 0.0000" age="0" price="20000.000000" farmId="1" boughtWithFarmland="false" seasonsYears="0.000000">
+        <storage index="1" farmId="1">
+            <node fillType="BARLEY" fillLevel="10432.917969"/>
+            <node fillType="OAT" fillLevel="3671.000000"/>
+            <node fillType="SOYBEAN" fillLevel="15423.770508"/>
+        </storage>
+    </item>
+    <item className="Bale" id="11" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="512.4680 213.2958 370.4279" rotation="179.9991 -12.7333 179.9979" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="SellingStationPlaceable" id="12" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationWool/sellingStationWool.xml" position="-819.2100 208.7450 721.8420" rotation="0.0000 90.0000 0.0000" age="0" price="1.000000" farmId="0" mapBoundId="sellingStationWool" boughtWithFarmland="false" seasonsYears="0.000000">
+        <sellingStation>
+            <stats fillType="WOOL" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.120000" nominalAmplitudeVariation="0.090000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.095716" period="70726536.000000" time="65119296.000000"/>
+                <curve1 nominalAmplitude="0.060000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.063363" period="503907104.000000" time="449515904.000000"/>
+            </stats>
+            <stats fillType="COTTON" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="43132340.000000">
+                <curveBaseCurve nominalAmplitude="0.250400" nominalAmplitudeVariation="0.187800" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.194133" period="78930080.000000" time="59197560.000000"/>
+                <curve1 nominalAmplitude="0.125200" nominalAmplitudeVariation="0.025040" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.135676" period="441339808.000000" time="332691392.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="Bale" id="13" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="508.2438 210.1346 257.9839" rotation="-84.1396 -0.0010 90.0000" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="14" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.2776 213.2958 368.9557" rotation="0.0311 -76.1373 -0.0284" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="15" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="513.0380 211.6815 367.6391" rotation="-179.9970 -16.6233 179.9833" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Workshop" id="16" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationVehicles/sellingStationVehicles.xml" position="-156.7380 191.3860 -760.9310" rotation="0.0000 -90.0000 0.0000" age="0" price="1.000000" farmId="0" mapBoundId="sellingStationVehicles" boughtWithFarmland="false" seasonsYears="0.000000"/>
+    <item className="Bale" id="17" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="509.3635 213.2957 366.6694" rotation="-0.0973 79.4382 179.8959" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="18" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="509.2164 213.2966 365.4964" rotation="179.5118 79.4417 179.4709" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="19" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.9663 213.2955 362.7132" rotation="-0.1644 -77.4495 0.1550" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="20" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="511.9185 211.6815 368.0922" rotation="179.9965 15.7077 -0.0257" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="21" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="507.3769 209.9326 287.1290" rotation="-0.0105 62.3935 -0.0022" valueScale="1.000000" fillLevel="3958.333252" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="22" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="486.9819 211.6816 378.9662" rotation="0.0001 -74.0336 -0.0008" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="23" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="513.5098 212.4884 372.0450" rotation="-0.1234 74.7922 179.8605" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="24" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="484.6786 212.4887 379.6519" rotation="-0.0069 -74.2888 0.0060" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="AnimalHusbandry" id="25" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/animaux/husbandryCowLarge.xml" position="427.5360 180.0240 -426.5240" rotation="180.0000 90.0000 -180.0000" age="0" price="50000.000000" farmId="0" boughtWithFarmland="true" seasonsYears="0.000000" globalProductionFactor="0.000000" averageGlobalProductionFactor="0.800000">
+        <animatedObjects>
+            <animatedObject time="0.000000" direction="0"/>
+        </animatedObjects>
+        <module name="animals" fillCapacity="0.000000"/>
+        <module name="water" fillCapacity="250.000000">
+            <fillLevel fillType="WATER" fillLevel="0.000000"/>
+        </module>
+        <module name="food" fillCapacity="0.000000" seasons_grazingConsumed="0.000000">
+            <fillLevel fillType="HAYPELLETS" fillLevel="0.000000"/>
+            <fillLevel fillType="DRYGRASS_WINDROW" fillLevel="0.000000"/>
+            <fillLevel fillType="FORAGE" fillLevel="0.000000"/>
+            <fillLevel fillType="GRASS_WINDROW" fillLevel="0.000000"/>
+            <fillLevel fillType="SILAGE" fillLevel="0.000000"/>
+        </module>
+    </item>
+    <item className="SellingStationPlaceable" id="26" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationWoodChips/sellingStationWoodChips.xml" position="-447.3000 183.0380 -148.9070" rotation="0.0000 11.0610 0.0000" age="0" price="1.000000" farmId="0" mapBoundId="sellingStationWoodChips" boughtWithFarmland="false" seasonsYears="0.000000">
+        <sellingStation>
+            <stats fillType="WOODCHIPS" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="7977214.500000">
+                <curveBaseCurve nominalAmplitude="0.016000" nominalAmplitudeVariation="0.012000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.008060" period="75253896.000000" time="18813474.000000"/>
+                <curve1 nominalAmplitude="0.008000" nominalAmplitudeVariation="0.001600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.006878" period="449153216.000000" time="280111104.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="Bale" id="27" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="488.9713 211.6815 377.1521" rotation="0.0403 -73.7989 -0.0338" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="28" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="506.3956 211.3605 285.5951" rotation="167.8836 8.6036 10.9980" valueScale="1.000000" fillLevel="39400.835938" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="29" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="512.5779 211.6815 370.4361" rotation="0.0006 -15.0814 179.9986" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="SellingStationPlaceable" id="30" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationGeneric/sellingStationPort05.xml" position="-662.1110 211.2510 -846.3860" rotation="180.0000 60.0000 180.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationPort02" boughtWithFarmland="false" seasonsYears="0.000000">
+        <sellingStation>
+            <stats fillType="WHEAT" received="13255.311523" paid="9382.370117" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.067400" nominalAmplitudeVariation="0.050550" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.056961" period="48553944.000000" time="32785900.000000"/>
+                <curve1 nominalAmplitude="0.033700" nominalAmplitudeVariation="0.006740" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.034981" period="575301056.000000" time="310203296.000000"/>
+            </stats>
+            <stats fillType="BARLEY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.062600" nominalAmplitudeVariation="0.046950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.036722" period="87637480.000000" time="54105004.000000"/>
+                <curve1 nominalAmplitude="0.031300" nominalAmplitudeVariation="0.006260" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.029143" period="438184736.000000" time="417902496.000000"/>
+            </stats>
+            <stats fillType="OAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.106400" nominalAmplitudeVariation="0.079800" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.080776" period="78386920.000000" time="7191562.000000"/>
+                <curve1 nominalAmplitude="0.053200" nominalAmplitudeVariation="0.010640" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.058214" period="533054560.000000" time="41451736.000000"/>
+            </stats>
+            <stats fillType="CANOLA" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="40252232.000000">
+                <curveBaseCurve nominalAmplitude="0.120600" nominalAmplitudeVariation="0.090450" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.097775" period="55977572.000000" time="41983180.000000"/>
+                <curve1 nominalAmplitude="0.060300" nominalAmplitudeVariation="0.012060" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.068645" period="439259680.000000" time="402255552.000000"/>
+            </stats>
+            <stats fillType="SUNFLOWER" received="11091.000000" paid="15568.994141" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="27501010.000000">
+                <curveBaseCurve nominalAmplitude="0.134600" nominalAmplitudeVariation="0.100950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.120167" period="52491264.000000" time="13122816.000000"/>
+                <curve1 nominalAmplitude="0.067300" nominalAmplitudeVariation="0.013460" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.070558" period="526600672.000000" time="233831664.000000"/>
+            </stats>
+            <stats fillType="SOYBEAN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="11390621.000000">
+                <curveBaseCurve nominalAmplitude="0.155600" nominalAmplitudeVariation="0.116700" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.079113" period="85875448.000000" time="21468862.000000"/>
+                <curve1 nominalAmplitude="0.077800" nominalAmplitudeVariation="0.015560" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.080963" period="576910400.000000" time="509384832.000000"/>
+            </stats>
+            <stats fillType="MAIZE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="3088530.500000">
+                <curveBaseCurve nominalAmplitude="0.076000" nominalAmplitudeVariation="0.057000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.116613" period="54125932.000000" time="40594448.000000"/>
+                <curve1 nominalAmplitude="0.038000" nominalAmplitudeVariation="0.007600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.034095" period="528920192.000000" time="151701664.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="Placeable" id="31" modName="FS19_lightsSet" filename="$moddir$FS19_lightsSet/floodLight.xml" position="403.8709 208.1417 334.5151" rotation="0.0000 0.0000 0.0000" age="2" price="2000.000000" farmId="1" boughtWithFarmland="false" seasonsYears="0.055556"/>
+    <item className="Bale" id="32" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="486.6501 211.6815 377.7981" rotation="-0.0414 -73.6351 0.0444" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="FarmhousePlaceable" id="33" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/animaux/farmMansion.xml" position="479.3120 210.5480 329.7730" rotation="0.0000 0.0000 0.0000" age="0" price="1.000000" farmId="1" boughtWithFarmland="true" seasonsYears="0.000000"/>
+    <item className="Bale" id="34" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="486.9908 212.4887 379.0015" rotation="0.0054 -74.0989 -0.0067" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="35" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.8296 212.4887 371.3846" rotation="-179.9621 80.4282 -179.9593" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="36" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="504.1838 209.9483 251.8741" rotation="0.0007 81.0995 -179.9991" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="37" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="508.9246 212.4886 364.4516" rotation="0.0126 -76.1525 -0.0016" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="38" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="508.9390 211.6815 364.4476" rotation="-0.0866 -80.5152 0.0862" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="39" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="509.4832 212.4885 366.7510" rotation="179.9152 76.5138 179.9034" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="40" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="507.0198 209.9483 259.1817" rotation="-179.9965 -55.2831 179.9924" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="41" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="486.6384 212.4887 377.7886" rotation="-0.0488 -74.9751 0.0523" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="42" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="511.8959 212.4887 368.0881" rotation="-0.0041 14.0535 -0.0302" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="43" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="506.2723 209.9483 260.1464" rotation="-179.9937 -53.5827 179.9961" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="44" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.9848 212.4884 362.7761" rotation="-179.8763 76.0285 -179.8841" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="45" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="502.6527 209.9674 256.1823" rotation="-150.7090 -85.6264 150.7388" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="46" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="513.5377 211.6813 372.0365" rotation="179.8787 74.6601 179.8638" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="47" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="513.6356 213.2957 370.1158" rotation="-0.0020 -14.0945 179.9780" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="AnimalHusbandry" id="48" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/animaux/husbandryChicken.xml" position="502.2950 207.6210 329.0630" rotation="0.0000 0.0000 0.0000" age="0" price="1.000000" farmId="1" boughtWithFarmland="true" seasonsYears="0.000000" globalProductionFactor="1.000000" averageGlobalProductionFactor="0.800926">
+        <module name="animals" fillCapacity="0.000000">
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="1" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="2" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="3"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="4" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="5"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="6" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="7" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="8"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="9" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="10" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="11"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="12" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="13" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="14" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="15" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="16" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="17" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="18" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="19" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="20" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="21" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="22" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="23" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="24"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="25"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="26"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="27"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="28"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="29"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="30"/>
+            <animal fillType="CHICKEN_TYPE_ROOSTER" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="6.000000" seasons_age="0.547945" seasons_id="31"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="32" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="33" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="34" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_ROOSTER" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="6.000000" seasons_age="0.547945" seasons_id="35"/>
+            <animal fillType="CHICKEN_TYPE_ROOSTER" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="6.000000" seasons_age="0.547945" seasons_id="36"/>
+            <animal fillType="CHICKEN_TYPE_ROOSTER" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="6.000000" seasons_age="0.547945" seasons_id="37"/>
+            <animal fillType="CHICKEN_TYPE_ROOSTER" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="6.000000" seasons_age="0.547945" seasons_id="38"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="39" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="40" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="41" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="42" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="43" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="44"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="45"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="46"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="47"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="48" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="49" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="50" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_ROOSTER" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="6.000000" seasons_age="0.547945" seasons_id="51"/>
+            <animal fillType="CHICKEN_TYPE_ROOSTER" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="6.000000" seasons_age="0.547945" seasons_id="52"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="53" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="54" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="55" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="56" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="57" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="58"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="59"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="60"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="61"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="62"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="63"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="64" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="65" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="66" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="67" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="68"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="69"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="70" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="71" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_ROOSTER" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="6.000000" seasons_age="0.547945" seasons_id="72"/>
+            <animal fillType="CHICKEN_TYPE_ROOSTER" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="6.000000" seasons_age="0.547945" seasons_id="73"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="74" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="75" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="76"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="77"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="78"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="79" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="80" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="81" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="82" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="83" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="84"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="85" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="86" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="87"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="88"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="89"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="90"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="91" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.655000" seasons_age="0.383562" seasons_id="92" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="CHICKEN_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="false" seasons_weight="0.180000" seasons_age="0.019178" seasons_id="93"/>
+            <animal fillType="CHICKEN_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="2.137500" seasons_age="0.383562" seasons_id="94" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <breeding fillType="CHICKEN_TYPE_WHITE" percentage="0.266670"/>
+            <breeding fillType="CHICKEN_TYPE_BROWN" percentage="0.480958"/>
+            <breeding fillType="CHICKEN_TYPE_BLACK" percentage="0.524036"/>
+        </module>
+        <module name="pallets" fillCapacity="800000.000000" palletFillDelta="0.000000"/>
+        <module name="foodSpillage" fillCapacity="16.294460" cleanlinessFactor="0.000000" foodToDrop="6.631211"/>
+        <module name="food" fillCapacity="0.000000" seasons_grazingConsumed="0.000000">
+            <fillLevel fillType="WHEAT" fillLevel="2936.137207"/>
+            <fillLevel fillType="BARLEY" fillLevel="0.000000"/>
+        </module>
+    </item>
+    <item className="Bale" id="49" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="513.0945 213.2958 367.7617" rotation="-179.9948 -15.5821 179.9808" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="50" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="513.7371 212.4886 370.1271" rotation="0.0003 15.1914 -0.0189" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="51" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="508.2393 212.4885 362.1668" rotation="-0.1716 -76.5487 0.1811" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="52" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="508.3224 211.6816 362.1243" rotation="0.0999 80.9208 -179.8950" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="53" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="482.0075 211.6816 379.0923" rotation="0.0068 -72.6514 -0.0076" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="54" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="457.6720 207.1962 383.0477" rotation="178.2078 47.1851 -2.6034" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="AnimalHusbandry" id="55" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/animaux/husbandrySheep.xml" position="526.8620 209.4720 287.3590" rotation="0.0000 0.0000 0.0000" age="0" price="1.000000" farmId="1" boughtWithFarmland="true" seasonsYears="0.000000" globalProductionFactor="1.000000" averageGlobalProductionFactor="0.800926">
+        <module name="foodSpillage" fillCapacity="89.612762" cleanlinessFactor="0.000000" foodToDrop="1.836099"/>
+        <module name="animals" fillCapacity="0.000000">
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="1" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="2" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="3" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="4" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="5" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="6" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="7" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="8" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="9" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="10" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="11" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="12" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="13" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="14" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="15" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="16" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="17" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="18" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="19" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="20" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="21" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="22" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="23" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="24" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="25" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="26" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="27" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="28" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="29" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="30" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="31" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="32" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="33" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="34" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="35" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="60.000000" seasons_age="1.000000" seasons_id="36" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="60.000000" seasons_age="1.000000" seasons_id="37" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="60.000000" seasons_age="1.000000" seasons_id="38" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="39" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="40" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="41" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="42" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="43" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="44" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="45" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="46" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="47" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="48" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="49" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="50" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="51" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="52" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="53" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="54" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="55" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="56" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="57" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="58" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="59" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="60" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="61" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="62" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="63" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="64" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="65" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="66" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="67" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="68" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="69" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="70" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BROWN" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="50.000000" seasons_age="1.000000" seasons_id="71" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="72" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="73" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="70.000000" seasons_age="1.000000" seasons_id="74" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="60.000000" seasons_age="1.000000" seasons_id="75" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_BLACK" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="60.000000" seasons_age="1.000000" seasons_id="76" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="77" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="78" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="79" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <animal fillType="SHEEP_TYPE_WHITE" dirtScale="0.000000" seasons_isFemale="true" seasons_weight="65.000000" seasons_age="1.000000" seasons_id="80" seasons_timeUntilBirth="0.000000" seasons_timeSinceBirth="0.000289"/>
+            <breeding fillType="SHEEP_TYPE_WHITE" percentage="0.181200"/>
+            <breeding fillType="SHEEP_TYPE_BROWN" percentage="0.436887"/>
+            <breeding fillType="SHEEP_TYPE_BLACK_WHITE" percentage="0.268853"/>
+            <breeding fillType="SHEEP_TYPE_BLACK" percentage="0.168033"/>
+        </module>
+        <module name="pallets" fillCapacity="800000.000000" palletFillDelta="45.463604"/>
+        <module name="water" fillCapacity="3032.541504">
+            <fillLevel fillType="WATER" fillLevel="3032.541504"/>
+        </module>
+        <module name="food" fillCapacity="0.000000" seasons_grazingConsumed="0.000000">
+            <fillLevel fillType="GRASS_WINDROW" fillLevel="4536.645996"/>
+            <fillLevel fillType="HAYPELLETS" fillLevel="0.000000"/>
+            <fillLevel fillType="DRYGRASS_WINDROW" fillLevel="0.000000"/>
+        </module>
+    </item>
+    <item className="Bale" id="56" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="484.3386 211.6816 378.4621" rotation="-0.0006 -73.6422 0.0008" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="57" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="511.1791 212.4887 365.7924" rotation="-179.9965 14.0011 0.0021" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="58" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.2569 212.4887 369.0603" rotation="0.0377 -79.3944 -0.0366" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="59" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.6732 213.2953 361.5695" rotation="-0.1625 -77.4722 0.1546" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="60" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="509.8765 212.4887 367.9297" rotation="179.9345 79.4353 179.9399" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="61" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="511.9029 213.2958 368.0421" rotation="179.9983 14.9155 -0.0344" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="62" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="507.5121 210.7397 287.1907" rotation="-0.0130 58.6208 -0.0078" valueScale="1.000000" fillLevel="1651.492676" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="63" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="512.3749 211.6815 365.3300" rotation="-0.0009 16.5358 -0.0082" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Placeable" id="64" modName="FS19_lightsSet" filename="$moddir$FS19_lightsSet/streetLight9m.xml" position="447.1566 206.2260 388.8511" rotation="0.0000 -346.3789 0.0000" age="2" price="1500.000000" farmId="1" boughtWithFarmland="false" seasonsYears="0.055556"/>
+    <item className="Placeable" id="65" modName="FS19_lightsSet" filename="$moddir$FS19_lightsSet/streetLight9m.xml" position="479.4825 207.2231 337.5408" rotation="0.0000 -278.1703 0.0000" age="2" price="1500.000000" farmId="1" boughtWithFarmland="false" seasonsYears="0.055556"/>
+    <item className="Bale" id="66" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="484.6732 211.6816 379.6260" rotation="0.0023 -74.0761 -0.0025" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="67" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.8050 213.2958 371.2658" rotation="-179.9912 75.7828 -179.9882" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Workshop" id="68" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationVehicles/sellingStationVehicles4.xml" position="452.6440 205.6760 360.6530" rotation="-180.0000 -15.0000 180.0000" age="0" price="1.000000" farmId="1" mapBoundId="sellingStationVehicles" boughtWithFarmland="true" seasonsYears="0.000000"/>
+    <item className="Bale" id="69" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="481.9958 212.4887 379.0892" rotation="0.0162 -73.1890 -0.0174" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="70" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="509.8965 213.2958 367.7845" rotation="179.9808 -78.5394 0.0235" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="71" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="507.3675 210.7399 289.7318" rotation="179.9985 -17.1562 -179.9922" valueScale="1.000000" fillLevel="3976.663330" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="72" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="511.3131 213.2958 363.8469" rotation="-179.9108 77.3099 -179.9301" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="73" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="509.2646 211.6816 365.6092" rotation="0.1994 -79.7812 -0.2090" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="74" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="512.4390 212.4887 365.4918" rotation="-0.0015 14.6300 -0.0097" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="75" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="512.5196 212.4887 370.4304" rotation="-179.9991 -14.2958 179.9978" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="BgaPlaceable" id="76" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/bga/bga.xml" position="-680.9360 198.5250 -639.1900" rotation="0.0000 0.0000 0.0000" age="0" price="1.000000" farmId="15" mapBoundId="bga" boughtWithFarmland="true" seasonsYears="0.000000">
+        <bga money="0.000000">
+            <digestateSilo>
+                <storage index="1" farmId="15"/>
+            </digestateSilo>
+            <slot index="1">
+                <fillType fillType="MANURE" fillLevel="0.000000"/>
+                <fillType fillType="GRASS_WINDROW" fillLevel="0.000000"/>
+                <fillType fillType="DRYGRASS_WINDROW" fillLevel="0.000000"/>
+                <fillType fillType="SILAGE" fillLevel="0.000000"/>
+            </slot>
+            <slot index="2">
+                <fillType fillType="LIQUIDMANURE" fillLevel="0.000000"/>
+            </slot>
+        </bga>
+        <bunkerSilo index="1" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+        <bunkerSilo index="2" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+        <bunkerSilo index="3" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+        <bunkerSilo index="4" state="0" fillLevel="0.000000" compactedFillLevel="0.000000" fermentingTime="0.000000" openedAtFront="false" openedAtBack="false"/>
+    </item>
+    <item className="Bale" id="77" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="489.2938 211.6816 378.3159" rotation="-0.0013 -74.0313 0.0011" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="AnimalHusbandry" id="78" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/animaux/husbandryPigLarge.xml" position="75.5970 191.7030 -76.3370" rotation="0.0000 0.0000 0.0000" age="0" price="1.000000" farmId="15" boughtWithFarmland="true" seasonsYears="0.000000" globalProductionFactor="0.000000" averageGlobalProductionFactor="0.800000">
+        <module name="foodSpillage" fillCapacity="0.000000" cleanlinessFactor="0.000000" foodToDrop="0.000000"/>
+        <module name="straw" fillCapacity="500.000000">
+            <fillLevel fillType="STRAW" fillLevel="0.000000"/>
+            <fillLevel fillType="STRAWPELLETS" fillLevel="0.000000"/>
+        </module>
+        <module name="manure" fillCapacity="800000.000000" manureToDrop="0.000000" manureToRemove="0.000000"/>
+        <module name="animals" fillCapacity="0.000000"/>
+        <module name="liquidManure" fillCapacity="800000.000000">
+            <fillLevel fillType="LIQUIDMANURE" fillLevel="0.000000"/>
+        </module>
+        <module name="water" fillCapacity="250.000000">
+            <fillLevel fillType="WATER" fillLevel="0.000000"/>
+        </module>
+        <module name="food" fillCapacity="0.000000" seasons_grazingConsumed="0.000000">
+            <fillLevel fillType="WHEAT" fillLevel="0.000000"/>
+            <fillLevel fillType="BARLEY" fillLevel="0.000000"/>
+            <fillLevel fillType="CANOLA" fillLevel="0.000000"/>
+            <fillLevel fillType="SUNFLOWER" fillLevel="0.000000"/>
+            <fillLevel fillType="SOYBEAN" fillLevel="0.000000"/>
+            <fillLevel fillType="MAIZE" fillLevel="0.000000"/>
+            <fillLevel fillType="POTATO" fillLevel="0.000000"/>
+            <fillLevel fillType="SUGARBEET" fillLevel="0.000000"/>
+        </module>
+    </item>
+    <item className="Bale" id="79" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="511.2362 211.6816 365.7090" rotation="-179.9990 16.5249 -0.0018" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="80" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="511.2788 213.2959 365.7240" rotation="0.0031 14.8996 0.0027" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="BunkerSiloPlaceable" id="81" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/animaux/Bunker.xml" position="415.1100 208.1440 317.0070" rotation="0.0000 0.0000 0.0000" age="0" price="1.000000" farmId="1" boughtWithFarmland="true" seasonsYears="0.000000">
+        <bunkerSilo index="1" state="2" fillLevel="277412.687500" compactedFillLevel="277412.687500" fermentingTime="43200000.000000" openedAtFront="false" openedAtBack="false"/>
+        <bunkerSilo index="2" state="1" fillLevel="114634.921875" compactedFillLevel="114634.921875" fermentingTime="43786772.000000" openedAtFront="false" openedAtBack="false"/>
+    </item>
+    <item className="Bale" id="82" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="486.6348 213.2958 377.7967" rotation="-0.0543 -74.8282 0.0583" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="83" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="502.4371 209.9483 254.1584" rotation="179.9930 -52.5597 -179.9913" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="BuyingStationPlaceable" id="84" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/gasStation/gasStation01.xml" position="-156.1390 194.4320 -576.1460" rotation="0.0000 0.0000 0.0000" age="0" price="1.000000" farmId="0" mapBoundId="gasStation01" boughtWithFarmland="false" seasonsYears="0.000000"/>
+    <item className="Bale" id="85" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="507.1026 211.5625 260.0368" rotation="-179.9994 -27.7355 179.9991" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="86" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="503.0332 211.7646 255.3731" rotation="-6.1802 0.6364 89.5604" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="AnimalHusbandry" id="87" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/animaux/husbandryCowLarge2.xml" position="388.3260 209.5450 270.7160" rotation="0.0000 0.0000 0.0000" age="0" price="1.000000" farmId="1" boughtWithFarmland="true" seasonsYears="0.000000" globalProductionFactor="0.000000" averageGlobalProductionFactor="0.800000">
+        <module name="foodSpillage" fillCapacity="0.000000" cleanlinessFactor="0.000000" foodToDrop="0.000000"/>
+        <module name="straw" fillCapacity="500.000000">
+            <fillLevel fillType="STRAW" fillLevel="0.000000"/>
+            <fillLevel fillType="STRAWPELLETS" fillLevel="0.000000"/>
+        </module>
+        <module name="milk" fillCapacity="800000.000000">
+            <fillLevel fillType="MILK" fillLevel="0.000000"/>
+        </module>
+        <module name="manure" fillCapacity="800000.000000" manureToDrop="0.000000" manureToRemove="0.000000"/>
+        <module name="animals" fillCapacity="0.000000"/>
+        <module name="liquidManure" fillCapacity="800000.000000">
+            <fillLevel fillType="LIQUIDMANURE" fillLevel="0.000000"/>
+        </module>
+        <module name="water" fillCapacity="250.000000">
+            <fillLevel fillType="WATER" fillLevel="0.000000"/>
+        </module>
+        <module name="food" fillCapacity="0.000000" seasons_grazingConsumed="0.000000">
+            <fillLevel fillType="HAYPELLETS" fillLevel="0.000000"/>
+            <fillLevel fillType="DRYGRASS_WINDROW" fillLevel="0.000000"/>
+            <fillLevel fillType="FORAGE" fillLevel="0.000000"/>
+            <fillLevel fillType="GRASS_WINDROW" fillLevel="0.000000"/>
+            <fillLevel fillType="SILAGE" fillLevel="0.000000"/>
+        </module>
+    </item>
+    <item className="Bale" id="88" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="509.2383 212.4888 365.5919" rotation="179.8551 76.2826 179.8489" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="89" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="508.5872 213.2963 363.2140" rotation="0.4281 -79.4514 -0.4557" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="90" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="507.2980 210.7554 260.0097" rotation="-179.9990 -14.8641 179.9941" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="91" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="511.3438 211.6814 363.7526" rotation="-179.9703 74.2859 -179.9796" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="92" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.6339 211.6815 370.2118" rotation="-179.9784 77.4601 -179.9799" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Placeable" id="93" modName="FS19_lightsSet" filename="$moddir$FS19_lightsSet/streetLight9m.xml" position="508.5136 206.5050 336.7990" rotation="0.0000 31.8286 0.0000" age="2" price="1500.000000" farmId="1" boughtWithFarmland="false" seasonsYears="0.055556"/>
+    <item className="Bale" id="94" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="512.4453 213.2958 365.4473" rotation="-0.0051 15.3375 -0.0120" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="95" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="488.9504 213.2957 377.1335" rotation="0.0580 -75.6442 -0.0471" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="HighPressureWasher" id="96" filename="data/placeables/highPressureWasher/kaercher/kaercherHDS918-4M.xml" position="455.7550 205.6507 354.6405" rotation="170.9421 78.2779 172.4067" age="3" price="4500.000000" farmId="1" boughtWithFarmland="false" seasonsYears="0.083333"/>
+    <item className="Bale" id="97" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="511.0232 211.6812 362.6145" rotation="-179.8978 74.4124 -179.9091" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="98" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.9151 211.6815 371.3771" rotation="-179.9878 76.9115 -179.9876" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Placeable" id="99" modName="FS19_lightsSet" filename="$moddir$FS19_lightsSet/floodLight.xml" position="415.7276 208.1440 333.6750" rotation="0.0000 0.0000 0.0000" age="2" price="2000.000000" farmId="1" boughtWithFarmland="false" seasonsYears="0.055556"/>
+    <item className="WoodSellStationPlaceable" id="100" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationWood/sellingStationWoodTrailer.xml" position="-363.4920 183.2600 -226.5570" rotation="0.0000 25.0000 0.0000" age="0" price="1.000000" farmId="0" mapBoundId="sellingStationWood" boughtWithFarmland="false" seasonsYears="0.000000"/>
+    <item className="SellingStationPlaceable" id="101" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationGeneric/sellingStationPort01.xml" position="-941.2680 210.0910 659.3190" rotation="0.0000 0.0000 0.0000" age="0" price="1.000000" farmId="0" mapBoundId="sellingStationMill01" boughtWithFarmland="false" seasonsYears="0.000000">
+        <sellingStation>
+            <stats fillType="WHEAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.067400" nominalAmplitudeVariation="0.050550" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.068633" period="50965924.000000" time="11490819.000000"/>
+                <curve1 nominalAmplitude="0.033700" nominalAmplitudeVariation="0.006740" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.033683" period="512265408.000000" time="32384674.000000"/>
+            </stats>
+            <stats fillType="BARLEY" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="19123532.000000">
+                <curveBaseCurve nominalAmplitude="0.062600" nominalAmplitudeVariation="0.046950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.057995" period="86868176.000000" time="65151132.000000"/>
+                <curve1 nominalAmplitude="0.031300" nominalAmplitudeVariation="0.006260" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.033788" period="451601024.000000" time="124526424.000000"/>
+            </stats>
+            <stats fillType="OAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="39588428.000000">
+                <curveBaseCurve nominalAmplitude="0.106400" nominalAmplitudeVariation="0.079800" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.031102" period="65858264.000000" time="49393696.000000"/>
+                <curve1 nominalAmplitude="0.053200" nominalAmplitudeVariation="0.010640" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.052410" period="514901696.000000" time="426780000.000000"/>
+            </stats>
+            <stats fillType="EGG" received="737.528259" paid="1830.932739" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.300000" nominalAmplitudeVariation="0.225000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.296941" period="84270008.000000" time="72900624.000000"/>
+                <curve1 nominalAmplitude="0.150000" nominalAmplitudeVariation="0.030000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.177546" period="582442880.000000" time="167057936.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="Doghouse" id="102" filename="data/placeables/doghouse/doghouse.xml" position="504.9567 206.5774 335.7084" rotation="0.0000 -33.6795 0.0000" age="2" price="2500.000000" farmId="1" boughtWithFarmland="false" seasonsYears="0.055556">
+        <dog name="Quantum"/>
+    </item>
+    <item className="Bale" id="103" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="484.3161 212.4887 378.4360" rotation="-0.0017 -73.8762 0.0023" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="104" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.5724 212.4886 370.2245" rotation="0.0073 80.4932 -179.9921" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="105" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="505.6316 210.1194 285.8819" rotation="136.3560 0.0532 90.0544" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="106" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="507.4060 209.9328 289.7198" rotation="-179.9998 21.7906 0.0034" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="107" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="503.1095 210.7691 255.2364" rotation="-0.8400 -40.9269 0.1042" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="108" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="509.9431 211.6817 367.8933" rotation="-0.0940 79.2608 179.9091" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="SellingStationPlaceable" id="109" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationGeneric/sellingStationPort04.xml" position="-300.6330 194.5390 -608.9690" rotation="180.0000 30.0000 180.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationPort02" boughtWithFarmland="false" seasonsYears="0.000000">
+        <sellingStation>
+            <stats fillType="MILK" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.140000" nominalAmplitudeVariation="0.105000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.133144" period="74032632.000000" time="40105120.000000"/>
+                <curve1 nominalAmplitude="0.070000" nominalAmplitudeVariation="0.014000" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.071530" period="591667136.000000" time="324800096.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="BuyingStationPlaceable" id="110" modName="FS19_nmlPlaceablePack" filename="$moddir$FS19_nmlPlaceablePack/waterTower.xml" position="439.8544 207.0323 370.9211" rotation="0.0000 298.9917 0.0000" age="2" price="4500.000000" farmId="1" boughtWithFarmland="false" seasonsYears="0.055556">
+        <animatedObjects>
+            <animatedObject time="1.000000" direction="0"/>
+        </animatedObjects>
+    </item>
+    <item className="Bale" id="111" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="508.6338 212.4886 363.3023" rotation="-0.1171 76.0571 179.8641" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="112" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="509.6103 211.6814 366.7469" rotation="0.1790 -79.6873 -0.1914" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="SellingStationPlaceable" id="113" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationGeneric/sellingStationPort02.xml" position="-194.7070 194.6000 -637.3330" rotation="0.0000 0.0000 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationPort02" boughtWithFarmland="false" seasonsYears="0.000000">
+        <sellingStation>
+            <stats fillType="WHEAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.067400" nominalAmplitudeVariation="0.050550" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.102151" period="44544792.000000" time="5663304.000000"/>
+                <curve1 nominalAmplitude="0.033700" nominalAmplitudeVariation="0.006740" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.035053" period="427229152.000000" time="204740112.000000"/>
+            </stats>
+            <stats fillType="BARLEY" received="70200.000000" paid="41135.968750" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="32528968.000000">
+                <curveBaseCurve nominalAmplitude="0.062600" nominalAmplitudeVariation="0.046950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.059615" period="61005088.000000" time="15251272.000000"/>
+                <curve1 nominalAmplitude="0.031300" nominalAmplitudeVariation="0.006260" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.028767" period="534547968.000000" time="276359072.000000"/>
+            </stats>
+            <stats fillType="OAT" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="35463092.000000">
+                <curveBaseCurve nominalAmplitude="0.106400" nominalAmplitudeVariation="0.079800" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.112089" period="48900700.000000" time="12225175.000000"/>
+                <curve1 nominalAmplitude="0.053200" nominalAmplitudeVariation="0.010640" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.044585" period="579200256.000000" time="158441744.000000"/>
+            </stats>
+            <stats fillType="CANOLA" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.120600" nominalAmplitudeVariation="0.090450" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.104658" period="82988864.000000" time="3900281.500000"/>
+                <curve1 nominalAmplitude="0.060300" nominalAmplitudeVariation="0.012060" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.056191" period="484174912.000000" time="413934976.000000"/>
+            </stats>
+            <stats fillType="SUNFLOWER" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="3909794.000000">
+                <curveBaseCurve nominalAmplitude="0.134600" nominalAmplitudeVariation="0.100950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.124409" period="94131408.000000" time="23532852.000000"/>
+                <curve1 nominalAmplitude="0.067300" nominalAmplitudeVariation="0.013460" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.054039" period="491640384.000000" time="304145344.000000"/>
+            </stats>
+            <stats fillType="SOYBEAN" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="15114801.000000">
+                <curveBaseCurve nominalAmplitude="0.155600" nominalAmplitudeVariation="0.116700" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.044654" period="60165088.000000" time="45123816.000000"/>
+                <curve1 nominalAmplitude="0.077800" nominalAmplitudeVariation="0.015560" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.082817" period="565611456.000000" time="193769888.000000"/>
+            </stats>
+            <stats fillType="MAIZE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="187281.578125">
+                <curveBaseCurve nominalAmplitude="0.076000" nominalAmplitudeVariation="0.057000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.048605" period="43221852.000000" time="32416388.000000"/>
+                <curve1 nominalAmplitude="0.038000" nominalAmplitudeVariation="0.007600" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.040083" period="507120672.000000" time="165927712.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="Bale" id="114" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleStraw_8Knots.i3d" position="482.3431 212.4887 380.2982" rotation="-0.0028 -74.5822 0.0030" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="115" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.2827 211.6815 369.0526" rotation="0.0329 -78.8055 -0.0318" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="116" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="513.7075 211.6815 369.9557" rotation="0.0045 -15.5486 179.9861" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="117" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="508.9106 213.2969 364.3536" rotation="0.4771 -79.4482 -0.4495" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="118" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="513.6406 213.2955 372.0082" rotation="0.1107 -74.8223 -0.1251" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="SellingStationPlaceable" id="119" modName="FS19_The_Valley_The_Old_farm" filename="$moddir$FS19_The_Valley_The_Old_farm/placeables/sellingStationGeneric/sellingStationPort03.xml" position="-123.3160 185.7290 -526.2390" rotation="0.0000 87.9210 0.0000" age="0" price="0.000000" farmId="0" mapBoundId="sellingStationPort02" boughtWithFarmland="false" seasonsYears="0.000000">
+        <sellingStation>
+            <stats fillType="POTATOSORTED" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="45847396.000000">
+                <curveBaseCurve nominalAmplitude="0.082600" nominalAmplitudeVariation="0.061950" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.026838" period="71859752.000000" time="53894812.000000"/>
+                <curve1 nominalAmplitude="0.041300" nominalAmplitudeVariation="0.008260" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.041667" period="450500224.000000" time="154671760.000000"/>
+            </stats>
+            <stats fillType="SUGARCANE" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="4249878.000000">
+                <curveBaseCurve nominalAmplitude="0.023800" nominalAmplitudeVariation="0.017850" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.016564" period="86197848.000000" time="21549462.000000"/>
+                <curve1 nominalAmplitude="0.011900" nominalAmplitudeVariation="0.002380" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.010562" period="408435424.000000" time="112068200.000000"/>
+            </stats>
+            <stats fillType="POTATOWASHED" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="true" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="50299696.000000">
+                <curveBaseCurve nominalAmplitude="0.048000" nominalAmplitudeVariation="0.036000" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.022285" period="60697664.000000" time="15174416.000000"/>
+                <curve1 nominalAmplitude="0.024000" nominalAmplitudeVariation="0.004800" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.021176" period="520811488.000000" time="94899928.000000"/>
+            </stats>
+            <stats fillType="SUGARBEET" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="0" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.024400" nominalAmplitudeVariation="0.018300" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.014147" period="81328984.000000" time="8188326.500000"/>
+                <curve1 nominalAmplitude="0.012200" nominalAmplitudeVariation="0.002440" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.013347" period="444225184.000000" time="290950848.000000"/>
+            </stats>
+            <stats fillType="POTATO" received="0.000000" paid="0.000000" priceVersion="1" isInPlateau="false" nextPlateauNumber="1" plateauDuration="51840000" meanValue="0.000000" plateauTime="0.000000">
+                <curveBaseCurve nominalAmplitude="0.034400" nominalAmplitudeVariation="0.025800" amplitudeDistribution="2" nominalPeriod="172800000" nominalPeriodVariation="64800000" periodDistribution="1" amplitude="0.052514" period="90224440.000000" time="51735920.000000"/>
+                <curve1 nominalAmplitude="0.017200" nominalAmplitudeVariation="0.003440" amplitudeDistribution="1" nominalPeriod="604800000" nominalPeriodVariation="120960000" periodDistribution="1" amplitude="0.020262" period="412728032.000000" time="159984240.000000"/>
+            </stats>
+        </sellingStation>
+    </item>
+    <item className="Placeable" id="120" modName="FS19_lightsSet" filename="$moddir$FS19_lightsSet/streetLight9m.xml" position="519.6572 205.5292 364.0581" rotation="0.0000 -94.4313 0.0000" age="2" price="1500.000000" farmId="1" boughtWithFarmland="false" seasonsYears="0.055556"/>
+    <item className="Bale" id="121" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="508.6425 211.6816 363.2894" rotation="179.9788 80.3553 179.9760" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="122" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="510.6855 212.4883 361.6196" rotation="-0.0877 -75.2957 0.0821" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="123" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="511.3611 212.4887 363.9025" rotation="-179.9319 76.1829 -179.9398" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+    <item className="Bale" id="124" modName="FS19_addon_strawHarvest" filename="$moddir$FS19_addon_strawHarvest/objects/squareBales/squareBaleGrass_8Knots.i3d" position="508.2230 213.2954 362.0815" rotation="179.8527 -79.4552 0.1630" valueScale="1.000000" fillLevel="4000.000000" farmId="1" age="0" rotVolume="0.000000" initVolume="4000.000000"/>
+</items>

@@ -1,0 +1,9 @@
+﻿<globalCompany>
+    <settings>
+        <setting name="horseHelper" value="true"/>
+        <setting name="objectInfo" value="false"/>
+        <setting name="cutBales" value="true"/>
+        <setting name="extendedPlaceable" value="true"/>
+        <setting name="moreTrees" value="true"/>
+    </settings>
+</globalCompany>
